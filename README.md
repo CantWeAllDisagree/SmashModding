@@ -14,4 +14,5 @@
 
 ## Guides
 * https://gamebanana.com/tuts/14712
-* Character Select Icons: https://gamebanana.com/tuts/14231
+* Single slot annoucer https://gamebanana.com/tuts/14231
+* Character Select Icons https://gamebanana.com/questions/33985
