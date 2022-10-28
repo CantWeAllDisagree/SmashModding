@@ -14,3 +14,4 @@
 
 ## Guides
 * https://gamebanana.com/tuts/14712
+* Character Select Icons: https://gamebanana.com/tuts/14231
